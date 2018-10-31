@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p{
+   font-style:italic;
+   text-indent:5%;
+}
+h1{
+    text-indent:10%;
+    font-weight:bold;
+}
+h2{
+   text-indent:10%;
+   font-weight:bold;
+}
+h3{
+   font-weight:bold;
+   text-indent:10%;
+}
+body{
+   background-color:#09bc92;
+}
+li{
+    font-style:italic;
+    text-indent:5%;
+}
+</style>
+</head>
+<body>
+<h1><strong>The CPU?</strong></h1>
+<p>The Central Processing Unit, or the CPU, is one of, if not the most important part of any type of computer. It does the basic computations and tells the other parts to do the more complicated ones. The CPU is basically the brain of the computer, it’s a small chip on top of the motherboard of a computer. Now, when I say computer I don’t just mean Desktop PCs and Laptops, but also phones, game consoles, and even graphing calculators are all Computers, which all have CPUs. CPUs are made of billions of microscopic transistors in a single chip. These transistors just keep getting smaller and smaller, in turn making the CPU faster and faster. But, why does it need to be faster? </p>
+<img src="https://icdn9.digitaltrends.com/image/amd-ryzen-7-cpu-insocket1-2-150x169.jpg">
+<h2><strong>What does the CPU do?</strong></h2>
+<p>The CPU takes instructions from programs and applications and performs calculations for it. There are 3 main stages of this process: Fetch, decode, and execute. The CPU fetches the instruction from the Random-Access-Memory (RAM), then it decodes it to actually find the instructions, lastly it gets executed (executed as in Ran not as in guillotine) by the relevant parts of the CPU. </p>
+<p>The executed instruction, or calculation, can have basic math, comparing numbers together, or even moving them in the memory. Because everything in a computer is represented by numbers, that is basically what the tasks that the CPU boils down to. The CPU does everything from booting up your computer, to just typing into a document or website. But nowadays the CPU isn’t alone, it has other chips that it can send numbers so that they can do what they were built for. For instance, there’s the Graphics Card, this is what allows you to see something other than just text, it can even load up a document from the local memory. </p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPXii6KFEfzZdjJHhpKpM9-hifS2RjZCerTdhdHjgX_RDy0r2y"width=150pxhieght=169px>
+<li>This is a graphics card</li>
+<h3><strong>The steps to disassemble an HP MXI8380ZPN</h3>
+<li>Info...</li>
+<li>Info...</li>
+<li>Info...</li>
+<li>Info...</li>
+<li>Info...</li>
+
+</body>
+
+</html>
